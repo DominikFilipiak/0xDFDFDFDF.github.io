@@ -6,4 +6,25 @@
 
 body {
  font-family: "my-font";
+ /*margin-right: 20px;*/
+}
+
+div#abstract {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  text-align: justify;
+  font-size: small;
+}
+
+div#main {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.text {
+  text-align: justify;
 }
