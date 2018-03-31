@@ -10,16 +10,16 @@ body {
 }
 
 div#abstract {
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
+    /*width: 400px;*/
+    margin-left: 10%;
+    margin-right: 10%;
     text-align: left;
     text-align: justify;
     font-size: small;
 }
 
 div#main {
-    width: 500px;
+    /*width: 500px;*/
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
