@@ -31,6 +31,9 @@ div#author {
     margin-top: 25px;
     margin-bottom: 25px;
 }
+p#tight{
+    margin-bottom: 0px
+}
 
 .text {
     text-align: justify;
