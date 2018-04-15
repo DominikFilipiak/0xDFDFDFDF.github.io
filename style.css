@@ -74,6 +74,7 @@ a {
     word-break: normal;
     border-top-width: 0px;
     border-bottom-width: 1.5px;
+    border-bottom-color: black;
 }
 
 .tg th {
@@ -85,6 +86,8 @@ a {
     word-break: normal;
     border-top-width: 1.5px;
     border-bottom-width: 1px;
+    border-top-color: black;
+    border-bottom-color: black;
 }
 
 .tg .tg-baqh {
